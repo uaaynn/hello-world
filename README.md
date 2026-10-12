@@ -1,4 +1,4 @@
-# hello-world
+# Hello-world
 
 Hi! I'm Yuna Cho, an economics and finance major at Hanyang University.
 
